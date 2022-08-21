@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nathanaela/nativescript-permissions.git"
+    "url": "https://github.com/trueandperfect/nativescript-permissions-fix.git"
   },
   "keywords": [
     "NativeScript", "permissions", "android", "android 6", "androidx", "ios"
