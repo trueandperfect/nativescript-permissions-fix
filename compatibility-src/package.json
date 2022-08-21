@@ -21,9 +21,7 @@
       "category": "Processing"
     }
   },
-  "dependencies": {
-    "@master.technology/permissions": "latest"
-  },
+
   "repository": {
     "type": "git",
     "url": "https://github.com/trueandperfect/nativescript-permissions-fix.git"
