@@ -1,5 +1,5 @@
 {
-  "name": "nativescript-permissions",
+  "name": "nativescript-permissions-fix",
   "version": "1.3.12",
   "description": "A NativeScript plugin to deal with Android & iOS permissions",
   "main": "permissions",
