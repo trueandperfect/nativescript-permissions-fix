@@ -10,4 +10,4 @@
 "use strict";
 
 /* global module, require */
-// module.exports = require("@master.technology/permissions");
+module.exports = require("@master.technology/permissions");
